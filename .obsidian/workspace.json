@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "4cd650bd1baa9fd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b1531d930f5669",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c790d740f823f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "924159ab66db835a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0cb49078342e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "808ad875ebbde415",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14a2de0fda989ed9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b57ee099b370c6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a907394c1428add6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25bd64dc4b37cf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee4b516a7cd4d451",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ab7b3923e63874c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2ed1c108c445dce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c9eb775d47c1a54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "69c790d740f823f5",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Others Analysis/T. Ayub.md",
+    "objects/info",
+    "objects/pack",
+    "objects",
+    "config",
+    "config.lock",
+    "HEAD",
+    "refs/tags",
+    "refs/heads",
+    "refs",
+    "info/exclude",
+    "Discrete math/5 - Logic puzzle.md",
+    "Discrete math/6 - Logic Circuits.md",
+    "Discrete math/4 - Translating English to Propositional Logic.md",
+    "Others Analysis/Med school's Profs.md",
+    "Others Analysis/Xala Hiwa/A backup doesnt make you a man.md",
+    "Others Analysis/Med's Professors.md",
+    "Programming lessons/Lesson 11.md",
+    "Programming lessons/Lesson 10.md",
+    "Programming lessons/Lesson 9.md",
+    "Programming lessons/Lesson 8.md",
+    "Others Analysis/Med Uni.md",
+    "Discrete math/1 - Truth tables.md",
+    "Discrete math/Truth tables - 1.md",
+    "Discrete math/More connective - 2.md",
+    "Questions/How does FaceId work.md",
+    "Questions/How does the internet work.md",
+    "Images/ArtOfProgramming.jpg",
+    "Images/TotalHoursWastedHere.png",
+    "Images/BestPractices.jpg",
+    "Images/UnicodeCode.jpg",
+    "Images/SolarPanelCircuit.jpg",
+    "Images/WhyLanguagesExampleCode.jpg",
+    "Images/TableUnicode.png",
+    "Documentaries/Intelligence of Crows.md",
+    "Naming.md",
+    "2023-12-14.md",
+    "Crow intelligence.md",
+    "Screenshot_20231210_111455_Moon+ Reader Pro.jpg",
+    "Screenshot_20231210_111448_Moon+ Reader Pro.jpg",
+    "Pasted image 20231221093918.png",
+    "Discrete math/3 - Constructing truth tables.md",
+    "Discrete math/2 - Implication and Biconditional.md",
+    "Self Analysis/Turning everyone away.md",
+    "Archive/Long paper 3/Rich pretending to be poor.md"
+  ]
+}

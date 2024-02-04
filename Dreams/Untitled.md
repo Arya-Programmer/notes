@@ -1,0 +1,1 @@
+La xawma la dukanek hatma darawa, Naz'm bini baraw lai chap roisht, wa Lawandm bini baraw lai chaw aroisht mawdaiaki farq bw lagal Naz bas zor na, inja la dwai Lawand'awa Aro'i lebu mawdaiaki zor zori farq bw lagal Lawand, inja Saz ba paskilawa chawarei akrd, waku blei lagal Naza peshtr planian danabe ka gaishtma flan shwen ja to bjule.

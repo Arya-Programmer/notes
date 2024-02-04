@@ -1,0 +1,21 @@
+{
+  "fileDirections": {
+    "Programming lessons/Lesson 3.md": "auto",
+    "Programming lessons/Lesson 4.md": "auto",
+    "Programming lessons/Lesson 1.md": "auto",
+    "Programming lessons/Lesson 2.md": "auto",
+    "Programming lessons/Lesson 5 - Actual coding.md": "auto",
+    "Programming lessons/Lesson 6.md": "auto",
+    "Programming lessons/Lesson 7.md": "auto",
+    "Programming lessons/Lesson 8.md": "auto",
+    "Programming lessons/Lesson 9.md": "auto",
+    "Programming lessons/Lesson 10.md": "auto",
+    "Programming lessons/Exercises.md": "auto",
+    "Programming lessons/Lesson 11.md": "auto"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
