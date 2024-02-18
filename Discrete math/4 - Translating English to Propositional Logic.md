@@ -23,3 +23,27 @@ s: you are older than 16 years old.
 Translate: $(r\vee \neg s)\to \neg q$
 
 If you are under 4 feet tall or you aren't older than 16 then you can't ride the roller coaster.
+
+The order of operation is as following:
+
+| Operator | Precedence |
+| ---- | ---- |
+| $\neg$ | 1 |
+| $\vee$  | 2 |
+| $\wedge$  | 3 |
+| $\to$ | 4 |
+| ↔ | 5 |
+
+
+# Using bitwise with 0 and 1s
+
+(11011 $\oplus$ 00101) $\lor$ (11101 $\land$ 01111)
+
+The first part:
+11110
+
+The second part:
+01101
+
+Combined:
+11111

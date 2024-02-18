@@ -1,13 +1,13 @@
 Two more connectives:
 1. if statement or an "Implication"
-2. if and only if or an "Biconditional"
+2. if and only if or a "Biconditional"
 
 ## Implication
 An implication also sometimes called a *conditional statement*
 Implication: When the hypothesis is true the conclusion must be true for the implication to be true.
 
 ### Denotation
-p → q and red "if p then q" or "p implies q".
+p → q and read "if p then q" or "p implies q".
 
 ### Truth table
 p: it is a holiday.
@@ -75,4 +75,4 @@ p ↔ q and its read "p if and only if q"
 | F | T | F |
 | F | F | T |
 
-**Note:** (p → q) ∧ (q → P) ≡ (p ↔ q) is True.
+**Note:** (p → q) ∧ (q → p) ≡ (p ↔ q) is True.

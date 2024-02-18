@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming lessons/Lesson 13.md",
+                "file": "Discrete math/4 - Translating English to Propositional Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming lessons/Lesson 13.md",
+                "file": "Discrete math/4 - Translating English to Propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming lessons/Lesson 13.md",
+                "file": "Discrete math/4 - Translating English to Propositional Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming lessons/Lesson 13.md"
+                "file": "Discrete math/4 - Translating English to Propositional Logic.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   },
   "active": "69c790d740f823f5",
   "lastOpenFiles": [
+    "Discrete math/5 - Logic puzzle.md",
+    "Discrete math/2 - Implication and Biconditional.md",
+    "Discrete math/3 - Constructing truth tables.md",
+    "Discrete math/4 - Translating English to Propositional Logic.md",
+    "2024-02-06.md",
+    "Screenshot_20240121_020045_X.jpg",
+    "Discrete math/6 - Logic Circuits.md",
+    "Untitled",
     "Programming lessons/Lesson 13.md",
     "Untitled.canvas",
     "Others Analysis/T. Ayub.md",
@@ -161,10 +169,6 @@
     "refs/tags",
     "refs/heads",
     "refs",
-    "info/exclude",
-    "Discrete math/5 - Logic puzzle.md",
-    "Discrete math/6 - Logic Circuits.md",
-    "Discrete math/4 - Translating English to Propositional Logic.md",
     "Others Analysis/Med school's Profs.md",
     "Others Analysis/Xala Hiwa/A backup doesnt make you a man.md",
     "Others Analysis/Med's Professors.md",
@@ -190,11 +194,6 @@
     "2023-12-14.md",
     "Crow intelligence.md",
     "Screenshot_20231210_111455_Moon+ Reader Pro.jpg",
-    "Screenshot_20231210_111448_Moon+ Reader Pro.jpg",
-    "Pasted image 20231221093918.png",
-    "Discrete math/3 - Constructing truth tables.md",
-    "Discrete math/2 - Implication and Biconditional.md",
-    "Self Analysis/Turning everyone away.md",
-    "Archive/Long paper 3/Rich pretending to be poor.md"
+    "Screenshot_20231210_111448_Moon+ Reader Pro.jpg"
   ]
 }
